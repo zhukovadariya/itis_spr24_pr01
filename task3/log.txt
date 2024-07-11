@@ -1,0 +1,6 @@
+id: d4ejqj90c9dv04fvsdi4
+folder_id: b1gpqkg3dd383vu7u8df
+created_at: "2024-07-10T12:32:15.508Z"
+name: telegram-bot-weather
+http_invoke_url: https://functions.yandexcloud.net/d4ejqj90c9dv04fvsdi4
+status: ACTIVE
